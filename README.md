@@ -23,18 +23,16 @@ Design a centralized, interactive dashboard to monitor performance, improve visi
 
 ## 🛠️ Tools & Technologies  
 - **Power BI** – Dashboard development & visualization  
-- **SQL** – Data extraction and querying  
 - **Power Query** – ETL (data cleaning & transformation)  
 - **DAX** – Measures and calculated metrics  
 
 ---
 
-## 🔄 Data Pipeline (ETL Process)  
-1. Extracted raw data from structured sources using SQL  
-2. Cleaned and transformed datasets using Power Query  
-3. Built relationships and data models for efficient querying  
-4. Created calculated columns and measures using DAX  
-5. Automated dashboard refresh for consistent reporting  
+## 🔄 Data Pipeline (ETL Process)    
+1. Cleaned and transformed datasets using Power Query  
+2. Built relationships and data models for efficient querying  
+3. Created calculated columns and measures using DAX  
+4. Automated dashboard refresh for consistent reporting  
 
 ---
 
@@ -93,5 +91,5 @@ _<img width="1213" height="677" alt="image" src="https://github.com/user-attachm
 
 ## ⭐ Why This Project Stands Out  
 - Demonstrates real-world data analysis and dashboarding skills  
-- Combines ETL, SQL, and visualization in one project  
+- Combines ETL and visualization in one project  
 - Focuses on business impact, not just visuals  
